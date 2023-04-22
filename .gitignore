@@ -1,0 +1,16 @@
+# Python Virtualenv
+
+.Python
+[Bb]in
+[Ii]nclude
+[Ll]ib
+[Ll]ib64
+[Ll]ocal
+[Ss]cripts
+pyvenv.cfg
+settings.json
+editimgs
+imgs
+.venv
+__pycache__/
+pip-selfcheck.json
